@@ -21,6 +21,11 @@ weight = 5
   course = "BS in Automation"
   institution = "Tsinghua University"
   year = 2015
+
+[[education.courses]]
+  course = "Summer Research Intern"
+  institution = "University of Michigan"
+  year = 2018
  
 +++
 
