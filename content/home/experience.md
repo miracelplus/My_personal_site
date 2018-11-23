@@ -43,7 +43,8 @@ date_format = "January 2006"
   Develop the acceleration method in autonomous algorithm detection
 
   * Method: Value region searching method, Modified reinforcement learning method
-	* Contributed to a second-author paper submitted to TRB (Transportation Research Board) 2018
+	
+  * Contributed to a second-author paper submitted to TRB (Transportation Research Board) 2018
 
   """
 [[experience]]
