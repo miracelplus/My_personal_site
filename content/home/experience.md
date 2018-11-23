@@ -27,6 +27,7 @@ date_format = "January 2006"
   date_end = ""
   description = """
   Mainly Contribute to the Intelligent Intersection Project
+
   * Receiving and Decoding Vedio Data
   * Transfer Pixel Data into GPS Data
   * Merge Object Detection Information
@@ -41,7 +42,7 @@ date_format = "January 2006"
   description = """
   * Research Objective: Develop methodology and operating process of the acceleration method in autonomous algorithm in the cut-in case (low dimension) and car-following case (high dimension)
   * Method: Value region searching method based on multi-initial-point local minimum optimization method and flood-filling algorithm, Modified reinforcement learning method
-	* Got $10^2$ acceleration in cut-in case and $10^5$ acceleration in car-following case
+	* Got $$10^2$$ acceleration in cut-in case and $$10^5$$ acceleration in car-following case
 	* Contributed to a second-author paper submitted to TRB (Transportation Research Board) 2018
 
   """
