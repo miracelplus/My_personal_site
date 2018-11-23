@@ -40,11 +40,26 @@ date_format = "January 2006"
   date_start = "2018-07-31"
   date_end = "2018-09-14"
   description = """
-  * Research Objective: Develop methodology and operating process of the acceleration method in autonomous algorithm in the cut-in case (low dimension) and car-following case (high dimension)
-  * Method: Value region searching method based on multi-initial-point local minimum optimization method and flood-filling algorithm, Modified reinforcement learning method
-	* Got $$10^2$$ acceleration in cut-in case and $$10^5$$ acceleration in car-following case
+  Develop the acceleration method in autonomous algorithm detection
+
+  * Method: Value region searching method, Modified reinforcement learning method
 	* Contributed to a second-author paper submitted to TRB (Transportation Research Board) 2018
 
   """
+[[experience]]
+  title = "Researcher"
+  company = "Tsinghua University"
+  company_url = ""
+  location = "Beijing"
+  date_start = "2017-06-01"
+  date_end = "2018-07-01"
+  description = """
+Develop platoon control method providing stability and calculation efficiency
 
+* Method: Discrete optimization and MPC method
+*	Built the platoon control simulation environmental system
+* Implemented the platoon control method and compared the control result with H-infinity based platoon control method
+*	Contributed to a second-author paper which is submitted to TCST (IEEE Transactions on Control Systems Technology)
+
+"""
 +++
