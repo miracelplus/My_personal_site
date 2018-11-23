@@ -20,7 +20,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "Transportation Research Board"
-publication_short = "TRB"
+publication_short = "TRB-19-03447"
 
 # Abstract and optional shortened version.
 abstract = ""

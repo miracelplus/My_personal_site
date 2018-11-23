@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Transactions on Control Systems Technology"
-publication_short = "TSCT"
+publication_short = "TCST-2018-0765"
 
 # Abstract and optional shortened version.
 abstract = ""
