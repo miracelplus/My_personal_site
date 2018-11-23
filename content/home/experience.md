@@ -19,27 +19,31 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Intern"
+  company = "DiDi Research"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Beijing"
+  date_start = "2018-10-08"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
-
+  Mainly Contribute to the Intelligent Intersection Project
+  * Receiving and Decoding Vedio Data
+  * Transfer Pixel Data into GPS Data
+  * Merge Object Detection Information
+"""
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Summer Research Intern"
+  company = "University of Michigan"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Michigan"
+  date_start = "2018-07-31"
+  date_end = "2018-09-14"
+  description = """
+  * Research Objective: Develop methodology and operating process of the acceleration method in autonomous algorithm in the cut-in case (low dimension) and car-following case (high dimension)
+  * Method: Value region searching method based on multi-initial-point local minimum optimization method and flood-filling algorithm, Modified reinforcement learning method
+	* Got $10^2$ acceleration in cut-in case and $10^5$ acceleration in car-following case
+	* Contributed to a second-author paper submitted to TRB (Transportation Research Board) 2018
+
+  """
 
 +++
